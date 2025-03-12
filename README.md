@@ -1301,6 +1301,7 @@ _Tools for compiling Go to other languages._
 - [f4go](https://github.com/Konstantin8105/f4go) - Transpile FORTRAN 77 code to Go code.
 - [go2hx](https://github.com/go2hx/go2hx) - Compiler from Go to Haxe to Javascript/C++/Java/C#.
 - [gopherjs](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
+- [typescript-go](https://github.com/microsoft/typescript-go) - Compiler from Go to TypeScript.
 
 **[⬆ back to top](#contents)**
 
@@ -1623,6 +1624,7 @@ _Libraries for generating and working with log files._
 - [zerolog](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
 - [zkits-logger](https://github.com/edoger/zkits-logger) - A powerful zero-dependency JSON logger.
 - [zl](https://github.com/nkmr-jp/zl) - High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.
+- [log4go](https://github.com/jeanphorn/log4go) - Logging library inspired by log4j, supporting console, file (with rotation), and network logging (TCP/UDP). Features JSON and XML configuration, as well as categorized logging.
 
 **[⬆ back to top](#contents)**
 
